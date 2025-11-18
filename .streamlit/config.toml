@@ -1,0 +1,44 @@
+[theme]
+font="Inter:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+baseFontSize=14
+theme.baseFontWeight=400
+theme.headingFontWeights="h4"
+theme.codeFontSize=16
+
+base="light"
+primaryColor="#4a83c0" # Changed to a vibrant red for demonstration
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#fafafa"
+textColor="#374151"
+baseRadius="large"
+linkColor="#344756"
+linkUnderline=true # Added linkUnderline
+
+# Basic Color Palette
+redColor="#991b1b"
+orangeColor="#ffa500"
+yellowColor="#ffd700"
+greenColor="#a1c73e"
+blueColor="#4a83c0"
+violetColor="#cf539b"
+grayColor="#9ca3af"
+
+
+
+# # Additional background colors
+# codeBackgroundColor="#f9f9f9" # Example code background, different from secondary
+# dataframeHeaderBackgroundColor="#e6e9ef" # Example dataframe header background
+
+# # Border options
+# borderColor="#cccccc" # Example border color
+# dataframeBorderColor="#dddddd" # Example dataframe border color
+# showWidgetBorder=true # Showing widget borders by default
+
+# # Button radius (overrides baseRadius for buttons)
+# buttonRadius="medium" # Example button radius, same as base for illustration
+
+# [theme.sidebar]
+# backgroundColor="#e6e9ef" # Example sidebar background for contrast
+# secondaryBackgroundColor="#fefefe" # Example sidebar secondary background for contrast
+# primaryColor="#90ee90" # Example sidebar primary color, contrasting with main app
+# baseRadius="none" # Example for sidebar specific radius

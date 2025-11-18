@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+sentence-transformers
+openai
+tqdm
+nltk
+ruptures
+loguru
+plotly
+spacy
+gensim
+setfit
+datasets
